@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shivam Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Job at Rayo innovations Pvt. Ltd.**
+- 🔭 I’m currently working on job at **Rayo innovations Pvt. Ltd.**
 
-- 🌱 I’m currently learning **Android with kotlin**
+- 🌱 I’m currently working in MERN stack technology.
 
 - 🤝 I’m looking for help with [Social gallary app (for Hactoberfest)](https://github.com/Shivampatel07/Social_Media_Gallery_MERN_APP)
 
