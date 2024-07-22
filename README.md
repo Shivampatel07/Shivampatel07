@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Elisgaming website**
+- 🔭 I’m currently working on **Job at Rayo innovations Pvt. Ltd.**
 
 - 🌱 I’m currently learning **Android with kotlin**
 
