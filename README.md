@@ -1,23 +1,88 @@
-<meta name="keywords" content="Shivam Patel, shivam, Patel shivam">
+<meta name="keywords" content="Shivam Patel, MERN stack developer, React developer, Node.js developer, JavaScript developer, MongoDB, Express.js, Next.js, Shadcn UI, BullMQ, Redis, Kafka, Docker, AWS, Full Stack Developer India, Open Source Contributor, Shivampatel07, Frontend Developer, Backend Developer, Software Engineer, Web Developer, GitHub Portfolio, Shivam Patel Developer">
+
+
 <h1 align="center">Hi 👋, I'm Shivam Patel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">🚀 A passionate MERN stack developer from India</h3>
 
-- 🔭 I’m currently working on job at **Rayo innovations Pvt. Ltd.**
-
-- 🌱 I’m currently working in MERN stack technology.
-
-- 🤝 I’m looking for help with [Social gallary app (for Hactoberfest)](https://github.com/Shivampatel07/Social_Media_Gallery_MERN_APP)
-
-- 📫 How to reach me **shivp72019@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/shivam_312" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shivamp83481137" height="30" width="40" /></a>
-<a href="https://twitter.com/shivamp83481137" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivamp83481137" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shivam-patel-18436822a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-patel-18436822a" height="30" width="40" /></a>
-<a href="https://instagram.com/shivam_patel2004" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivam_patel2004" height="30" width="40" target="_blank" /></a>
-<a href="https://www.youtube.com/channel/UC2gg202kAB7KDMPHI3XXwjQ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="beyondbuttons" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coder gif" width="400" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- 🔭 I’m currently working at **Rayo Innovations Pvt. Ltd.**
+- 💻 I specialize in the **MERN stack** (MongoDB, Express, React, Node.js)
+- 🌱 Exploring advanced backend tools and DevOps: Kafka, Redis, Docker, AWS
+- 🤝 I’m looking for collaborators on [Social Gallery App (Hacktoberfest)](https://github.com/Shivampatel07/Social_Media_Gallery_MERN_APP)
+- 📫 Reach me at **shivp72019@gmail.com**
+
+---
+
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://codepen.io/shivam_312" target="_blank" title="Codepen"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" width="40"/></a>
+  <a href="https://twitter.com/shivamp83481137" target="_blank" title="Twitter"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/></a>
+  <a href="https://linkedin.com/in/shivam-patel-18436822a" target="_blank" title="LinkedIn"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
+  <a href="https://instagram.com/shivam_patel2004" target="_blank" title="Instagram"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a>
+  <a href="https://www.youtube.com/channel/UC2gg202kAB7KDMPHI3XXwjQ" target="_blank" title="YouTube"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/></a>
+</p>
+
+---
+
+### 🧰 Tech Stack & Tools
+
+#### 💻 Programming & Scripting
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" /></a>
+  <a href="https://www.python.org/" target="_blank" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /></a>
+  <a href="https://en.cppreference.com/w/c" target="_blank" title="C Language"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" /></a>
+  <a href="https://www.php.net/" target="_blank" title="PHP"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" /></a>
+</p>
+
+#### 🌐 Frontend
+<p>
+  <a href="https://reactjs.org/" target="_blank" title="React.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" /></a>
+  <a href="https://nextjs.org/" target="_blank" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" width="40" /></a>
+  <a href="https://ui.shadcn.com/" target="_blank" title="Shadcn UI"><img src="https://ui.shadcn.com/apple-touch-icon.png" width="40" /></a>
+  <a href="https://getbootstrap.com/" target="_blank" title="Bootstrap"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" /></a>
+</p>
+
+#### 🧠 Backend & DevOps
+<p>
+  <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" /></a>
+  <a href="https://expressjs.com/" target="_blank" title="Express.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" /></a>
+  <a href="https://redis.io/" target="_blank" title="Redis"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40" /></a>
+  <a href="https://kafka.apache.org/" target="_blank" title="Kafka"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" /></a>
+  <a href="https://www.docker.com/" target="_blank" title="Docker"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" /></a>
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" /></a>
+  <a href="https://docs.bullmq.io/" target="_blank" title="BullMQ"><img src="https://bullmq.io/images/bullmq-logo.png" width="100" style="background-color: black;" /></a>
+</p>
+
+#### ☁️ Cloud & Tools
+<p>
+  <a href="https://aws.amazon.com/" target="_blank" title="AWS"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" /></a>
+  <a href="https://www.postman.com/" target="_blank" title="Postman"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" /></a>
+  <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" /></a>
+  <a href="https://www.figma.com/" target="_blank" title="Figma"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" /></a>
+  <a href="https://opencv.org/" target="_blank" title="OpenCV"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivampatel07&show_icons=true&theme=radical" alt="GitHub stats" title="My GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivampatel07&theme=radical" alt="GitHub Streak" title="GitHub Contribution Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivampatel07&layout=compact&theme=radical" alt="Top Languages" title="Most Used Languages" />
+</p>
+
+---
+
+> ⚡ *“Keep building, keep shipping, and never stop learning.”*
