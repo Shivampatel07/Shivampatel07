@@ -53,7 +53,7 @@
 #### 🧠 Backend & DevOps
 <p>
   <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" /></a>
-  <a href="https://expressjs.com/" target="_blank" title="Express.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" /></a>
+  <a href="https://expressjs.com/" target="_blank" title="Express.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" style="background-color: white;"  /></a>
   <a href="https://redis.io/" target="_blank" title="Redis"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40" /></a>
   <a href="https://kafka.apache.org/" target="_blank" title="Kafka"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" /></a>
   <a href="https://www.docker.com/" target="_blank" title="Docker"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" /></a>
